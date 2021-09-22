@@ -1,0 +1,32 @@
+.msgSign{
+	display: none;
+}
+.absenceDiv{
+	display: none;
+}
+
+.formTD{
+	padding: 20px;
+}
+
+.attendanceType{
+	width: 30px;
+	height: 18px;
+}
+
+#fromOfficeDiv{
+	display: none;
+}
+
+#fromHomeDiv{
+	display: none;
+}
+
+#noAttendanceDiv{
+	display: none;
+}
+
+.textarea-style{
+	height: 150px!important;
+	resize: none;
+}

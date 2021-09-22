@@ -1,0 +1,33 @@
+.announcement-link:hover{
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #000;
+}
+
+.announcement{
+	margin-left: 2%;
+	width: 180%!important;
+}
+
+.alert{
+	width: 200%!important;
+}
+
+.new-announcement-text{
+	color: #000;
+}
+
+.done-announcement-text{
+	color: #000;
+}
+
+table{
+	width: 100%!important;
+}
+td{
+	padding: 5px;
+}
+tr{
+	padding: 5px;
+}

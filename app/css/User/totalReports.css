@@ -1,0 +1,16 @@
+.report:hover{
+	cursor: pointer;
+	color: #000;
+	font-weight: bold;
+}
+
+.alert{
+	width: 150%!important;
+}
+
+table{
+	width: 100%!important;
+}
+td{
+	padding-left: 15%!important;
+}

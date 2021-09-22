@@ -1,0 +1,38 @@
+
+.task-link:hover{
+	cursor: pointer;
+	color: #000;
+}
+
+
+
+.alert{
+	width: 120%!important;
+}
+
+.new-task-text{
+	color: #000;
+}
+
+.seen, .start, .going, .done{
+	float: left;
+	border-radius: 5px;
+	text-align: center;
+	width: 50%;
+	padding: 5px;
+	background-color: white;
+}
+
+.float-left{
+	width: 100%!important;
+}
+
+table{
+	width: 80%!important;
+}
+td{
+	padding: 0px;
+}
+tr{
+	padding: 5px;
+}

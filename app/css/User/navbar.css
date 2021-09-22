@@ -1,0 +1,112 @@
+.nav-logo{
+  width: 80%!important;
+}
+
+.sb-sidenav-menu-heading{
+  font-size: 18px!important;
+}
+#imgLogo{
+    border-top-right-radius: 27px;
+}
+
+.navbar-light{
+    background-color: #114F89!important;
+}
+
+.bg-light{
+    background-color: #114F89!important;
+} 
+.sb-sidenav-light{
+    background-color: #114F89!important;
+} 
+.navbar-light{
+    border-bottom: solid #000 1px;
+}
+.navbar-brand{
+  width: 70%!important;
+}
+.navbar-light .navbar-brand{
+   color: #fff;
+}
+
+.navbar-light .navbar-brand:hover{
+   color: #fff;
+}
+
+.nav-link {
+    padding-top: 4px!important;
+    color: white !important;
+    cursor: pointer;
+}
+
+.collapsed:hover{
+  background-color: #6089B0;
+  transition: 0.5s;
+}
+
+.collapsed{
+  transition: 0.5s;
+}
+
+.navbar-light .fa-bars {
+        color: #ffffff!important;
+}
+
+.nav-icon{
+  width: 10%!important;
+    cursor: pointer;
+}
+
+
+#sidebarToggle:hover{
+  background-color: #6089B0;
+  transition: 0.5s;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+}
+#sidebarToggle{
+  transition: 0.5s;
+}
+
+.active{
+  margin-right: 5%;
+  background-color: #6089B0;
+  transition: 0.5s;
+  border-radius:5px;
+}
+.Form-links:hover{
+  margin-right: 5%;
+  background-color: #6089B0;
+  transition: 0.5s;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+}
+.Form-links{
+  width: 90%;
+  border-radius:5px;
+  transition: 0.5s;
+}
+
+.link-text{
+  margin-left: 60%!important;
+}
+
+.settings{
+  margin-left: 5%!important;
+}
+.settings-dropdown{
+  margin-left: 5%!important;
+}
+
+.end-day{
+  text-align: center!important;
+  background-color: #6089B0;
+  transition: 0.5s;
+}
+.link-text-end{
+  margin-right: 30%;
+}
+
+#endShiftForm{
+  display: none!important;
+}

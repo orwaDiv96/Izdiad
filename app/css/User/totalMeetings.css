@@ -1,0 +1,41 @@
+
+.meeting-link:hover{
+	cursor: pointer;
+	color: #000;
+}
+
+.meeting{
+	margin-left: 2%;
+	width: 180%!important;
+}
+
+.alert{
+	width: 200%!important;
+}
+
+.new-meeting-text{
+	color: #000;
+}
+
+.done-meeting-text{
+	color: #000;
+}
+
+.seen, .start, .going, .done{
+	float: left;
+	border-radius: 5px;
+	text-align: center;
+	width: 50%;
+	padding: 5px;
+	background-color: white;
+}
+
+table{
+	width: 100%!important;
+}
+td{
+	padding: 5px;
+}
+tr{
+	padding: 5px;
+}

@@ -1,0 +1,52 @@
+label{
+  font-weight: bolder!important;
+  font-size: 18px!important;
+}
+
+/*select{
+  max-width: 60%!important;
+}*/
+.row{
+  position: relative;
+  max-width: 60%!important;
+}
+
+.alert{
+  display: none;
+  width: 70%;
+}
+.mt-4{
+	margin-top: 3%;
+}
+
+.well {
+  min-height:20px;
+  padding:19px;
+  margin-bottom:20px;
+  background-color:#f5f5f5;
+  border:1px solid #e3e3e3;
+  border-radius:4px;
+  -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);
+  box-shadow:inset 0 1px 1px rgba(0,0,0,.05)
+}
+
+.col-xs-12{
+	width: 80%!important;
+}
+
+
+.js-example-responsive{
+  width: 50%!important;
+  padding: 10px!important;
+}
+
+#technicalWorkFormDiv{
+  display: none;
+}
+
+.work-select{
+  width: 250px!important;
+}
+#ManagementSelectDiv{
+  display: none;
+}

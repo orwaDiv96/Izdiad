@@ -1,0 +1,15 @@
+.col-lg-12{
+	width: 600px!important;
+	width: 320px!important;
+	/*background-color: #000;*/
+}
+
+#reportDiv{
+	padding: 0px;
+	height: 70%!important;
+	width: 150%!important;
+}
+
+#attendanceInfo{
+	display: none;
+}

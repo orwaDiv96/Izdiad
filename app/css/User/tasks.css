@@ -1,0 +1,26 @@
+.btn-primary{
+	color: #000;
+}
+
+.card{
+
+}
+
+.task-card{
+	width: 40%!important;
+	font-size: 20px!important;
+	margin-right: 5%;
+}
+
+.task-card:hover{
+	cursor: pointer;
+}
+.row{
+	width: 150%!important;
+}
+
+.badge{
+	background-color: black;
+	color: #fff;
+	border-radius: 5px;
+}
