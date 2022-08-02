@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.0.4
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 07, 2021 at 03:04 PM
--- Server version: 10.4.17-MariaDB
--- PHP Version: 7.2.34
+-- Generation Time: Aug 02, 2022 at 08:42 AM
+-- Server version: 10.4.24-MariaDB
+-- PHP Version: 7.4.29
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -73,18 +73,6 @@ CREATE TABLE `departments` (
   `department` varchar(255) NOT NULL,
   `ar_department` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
---
--- Dumping data for table `departments`
---
-
-INSERT INTO `departments` (`d_id`, `department`, `ar_department`) VALUES
-(1, 'Administrative Coordination', 'التنسيق الإداري'),
-(2, 'Technical', 'التقني'),
-(3, 'Project Management', 'إدارة المشاريع'),
-(4, 'Content Management', 'إدارة المحتوى'),
-(5, 'Finance', 'المالية'),
-(6, 'HR', 'الموارد البشرية');
 
 -- --------------------------------------------------------
 
@@ -237,7 +225,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `ar_fullname`, `en_fullname`, `ar_job`, `en_job`, `emp_num`, `department`, `phone`, `role`) VALUES
-(2, 'orwa@izdiad.net', '827ccb0eea8a706c4c34a16891f84e7b', 'عروة محمد عمر أبوبكر', 'Orwa Mohamed', 'مطور', 'Web Developer', 'IZ-0-8', '2', '0120023647', 'admin');
+(2, 'admin@izdiad.net', '827ccb0eea8a706c4c34a16891f84e7b', 'آدمن', 'Admin', 'مطور', 'Web Developer', 'IZ-0-8', '2', '0120023647', 'admin');
 
 --
 -- Indexes for dumped tables
